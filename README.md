@@ -1,4 +1,4 @@
-#What's this for? 
+# What's this for? 
 
 Oh, hello. To put it short: This is supposed to be a Guide-/ Geo-Informational-App for Information on one's Location and Environment.
 
